@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andre Morales
 - 👀 I’m interested in gaming, sports, and all things technology
 - 🌱 I’m currently starting to learn how to code and I am excited!
-- 💞️ I’m looking to collaborate on any web or mobile application as a QA Engineer
+- 💞️ I’m looking to collaborate on any web or mobile application as a Full Stack Engineer
 - 📫 How to reach me asm13august95@gmail.com
 
 <!---
