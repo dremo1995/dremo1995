@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andre Morales
-- 👀 I’m interested in gaming, sports, and all things technology
-- 🌱 I’m currently seeking a position as a Frontend Engineer
+- 🌱 I’m currently seeking a position as a Software Engineer
 - 📫 How to reach me asm13august95@gmail.com
 
 <!---
